@@ -1,0 +1,14 @@
+C:\Users\misha\Desktop\Project2_Theme17\bin\Debug\net8.0\Project2_Theme17.exe
+C:\Users\misha\Desktop\Project2_Theme17\bin\Debug\net8.0\Project2_Theme17.deps.json
+C:\Users\misha\Desktop\Project2_Theme17\bin\Debug\net8.0\Project2_Theme17.runtimeconfig.json
+C:\Users\misha\Desktop\Project2_Theme17\bin\Debug\net8.0\Project2_Theme17.dll
+C:\Users\misha\Desktop\Project2_Theme17\bin\Debug\net8.0\Project2_Theme17.pdb
+C:\Users\misha\Desktop\Project2_Theme17\obj\Debug\net8.0\Project2_Theme17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misha\Desktop\Project2_Theme17\obj\Debug\net8.0\Project2_Theme17.AssemblyInfoInputs.cache
+C:\Users\misha\Desktop\Project2_Theme17\obj\Debug\net8.0\Project2_Theme17.AssemblyInfo.cs
+C:\Users\misha\Desktop\Project2_Theme17\obj\Debug\net8.0\Project2_Theme17.csproj.CoreCompileInputs.cache
+C:\Users\misha\Desktop\Project2_Theme17\obj\Debug\net8.0\Project2_Theme17.dll
+C:\Users\misha\Desktop\Project2_Theme17\obj\Debug\net8.0\refint\Project2_Theme17.dll
+C:\Users\misha\Desktop\Project2_Theme17\obj\Debug\net8.0\Project2_Theme17.pdb
+C:\Users\misha\Desktop\Project2_Theme17\obj\Debug\net8.0\Project2_Theme17.genruntimeconfig.cache
+C:\Users\misha\Desktop\Project2_Theme17\obj\Debug\net8.0\ref\Project2_Theme17.dll
